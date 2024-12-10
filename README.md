@@ -1,5 +1,5 @@
 # 💫 About Me:
- Olá, eu sou Cintia<br>• 💼 Sou Graduanda em ADS <br>• 🌱 Estou aprendendo mais sobre Python, flask, django, estatística e análise de dados <br>• 🎶Curiosidades : Amo ouvir música, ler e viajar  
+ Olá, me chamo Cintia<br>• 💼 Sou Graduanda em ADS <br>• 🌱 Estou aprendendo mais sobre Python, flask, django, estatística e análise de dados <br>• 🎶Curiosidades : Amo ouvir música, ler e viajar  
 
 
 ## 🌐 Socials:
