@@ -17,8 +17,8 @@ Olá, eu sou Cintia<br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 **GitHub Stats**:
-![](https://github-readme-stats.vercel.app/api?username=CintiaAndrade&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CintiaAndrade&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Cintiabge&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Cintiabge&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CintiaAndrade&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
