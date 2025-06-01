@@ -1,7 +1,7 @@
 # 💫 Sobre mim:
 Olá, eu sou Cintia<br> 
 • 💼 Sou Graduanda em ADS <br> 
-• 🌱 Estou aprendendo mais sobre Python, Flask, Django, Estatística e Análise de Dados <br> 
+• 🌱 Estou aprendendo mais sobre SQL, Power BI, Python, Estatística e Análise de Dados <br> 
 • 🎶 Curiosidades: Amo ouvir música, ler e viajar  
 
 ## 🌐 Linkedin:
@@ -9,11 +9,13 @@ Olá, eu sou Cintia<br>
 
 # 💻 **My Skills**:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-FF6F00.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-FF6F00.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 
 
 # 📊 **GitHub Stats**:
