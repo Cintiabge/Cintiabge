@@ -1,9 +1,9 @@
 # 💫 Sobre mim:
 Olá, eu sou Cintia<br> 
-• 💼 Sou Formada em ADS <br> 
-• 🌱 Estou aprendendo mais sobre SQL, Power BI, Python, Estatística e Análise de Dados <br> 
-• 🎶 Curiosidades: Amo ouvir música, ler e viajar  
-
+•  Sou **Formada** em ADS <br> 
+•  Estou aprendendo mais sobre SQL, Power BI, Python, Estatística e Análise de Dados <br> 
+•  Curiosidades: Amo ouvir música, ler e viajar  
+•  Estou em busca da minha primeira oportunidade como **Analista de Dados Jr** para aplicar na prática tudo o que venho aprendendo.
 ## 🌐 Linkedin:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cintia-andrade-96b455266)
 
