@@ -1,6 +1,6 @@
 # 💫 Sobre mim:
 Olá, eu sou Cintia<br> 
-• 💼 Sou Graduanda em ADS <br> 
+• 💼 Sou Formada em ADS <br> 
 • 🌱 Estou aprendendo mais sobre SQL, Power BI, Python, Estatística e Análise de Dados <br> 
 • 🎶 Curiosidades: Amo ouvir música, ler e viajar  
 
