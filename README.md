@@ -36,14 +36,23 @@ Atualmente, desenvolvo projetos próprios com foco em:
 
 ---
 
-## 🚀 **Projetos em Destaque**
+## 🚀 Projetos em Destaque
 
-📌 [Dashboard de Vendas - Power BI](#)  
-📌 [Análise de RH com Power BI](#)  
-📌 [ETL com Python e SQL](#)  
-📌 [Análise Exploratória com Pandas e Visualização](#)
+📌 [**Dashboard de Vendas - Power BI**](https://app.powerbi.com/view?r=eyJrIjoiMjg1ZmM1MzctNzdmNy00MjU4LWIxNTYtYjg2OWEyYTE5ODQ4IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)  
+Dashboard com KPIs de vendas, como faturamento total, ticket médio, lucro por produto e análise de crescimento mensal. Inclui filtros por região, categoria e data. Desenvolvido com DAX, Power Query e relacionamento entre tabelas.
 
-> *Clique nos repositórios para ver README com explicações, prints e links.*
+📌 [**Dashboard Financeiro - Power BI**](https://app.powerbi.com/view?r=eyJrIjoiZWZhN2JkODMtNjk2MS00MWE5LWI5ZDQtNDhmNWU0YTgwMGQ3IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)  
+Análise de contas a pagar e a receber, fluxo de caixa e saldo mensal com segmentações por mês e categoria de despesa. Aplicação de storytelling visual e fórmulas DAX para controle orçamentário.
+
+📌 [**Dashboard Demonstrativo de Resultados (DRE)**](https://app.powerbi.com/view?r=eyJrIjoiZTZhYzE0ZjctYTMxMi00NzgwLTkyN2MtM2RkMDU5NGZmMTQxIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)  
+DRE interativo com análise de receitas, custos, despesas e lucro líquido por período. Ideal para acompanhar a saúde financeira de uma empresa fictícia com visualização clara e objetiva.
+
+---
+
+🌐 Acesse também meu portfólio completo:  
+🔗 [https://sites.google.com/view/cintiaandrade/in%C3%ADcio](https://sites.google.com/view/cintiaandrade/in%C3%ADcio)
+
+> Todos os dashboards foram desenvolvidos com dados simulados para fins educacionais.
 
 ---
 
