@@ -4,8 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=800080&center=true&vCenter=true&random=false&width=500&lines=Ol%C3%A1%21+Sou+a+Cintia+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
-Graduada em Análise e Desenvolvimento de Sistemas  
-Analista de Dados em formação, apaixonada por transformar dados em soluções de negócio  
+Formada em Análise e Desenvolvimento de Sistemas  
+Analista de Dados em formação, apaixonada por transformar dados em soluções de negócio.
+
 Em busca da minha primeira oportunidade como **Analista de Dados Júnior**  
 
 Atualmente, desenvolvo projetos próprios com foco em:
