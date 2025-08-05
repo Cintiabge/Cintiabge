@@ -1,8 +1,10 @@
-# 👋 Olá! Eu sou a Cintia Andrade
 
-🎓 Formada em Análise e Desenvolvimento de Sistemas  
-📊 Analista de Dados em formação, apaixonada por transformar dados em soluções de negócio  
-🚀 Em busca da minha primeira oportunidade como **Analista de Dados Júnior**  
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=800080&center=true&vCenter=true&random=false&width=500&lines=Ol%C3%A1%21+Sou+a+Cintia+%F0%9F%91%8B)
+
+Formada em Análise e Desenvolvimento de Sistemas  
+Analista de Dados em formação, apaixonada por transformar dados em soluções de negócio  
+Em busca da minha primeira oportunidade como **Analista de Dados Júnior**  
 
 Atualmente, desenvolvo projetos próprios com foco em:
 
@@ -19,7 +21,8 @@ Atualmente, desenvolvo projetos próprios com foco em:
 ## 🌐 **Conecte-se comigo:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cintia-psandrade)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cintiabge)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cintiabcge@gmail.com)
+
 
 ---
 
@@ -57,16 +60,21 @@ DRE interativo com análise de receitas, custos, despesas e lucro líquido por p
 ---
 
 ## 📈 **Estatísticas GitHub**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cintiabge&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200" style="margin-right: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cintiabge&theme=radical&hide_border=false&layout=compact" alt="Top Langs" height="200"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=Cintiabge&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Cintiabge&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cintiabge&theme=radical&hide_border=false&layout=compact)
+
+![Pacman Graph](https://raw.githubusercontent.com/isabelardg/isabelardg/output/pacman-contribution-graph-dark.svg)
+
+
 
 ---
 
-## 🎵 Curiosidades
+## 🎵 Curiosidades 🎵
 
-Quando não estou estudando dados, adoro ouvir música, ler romances e planejar viagens ✈️  
+Quando não estou estudando dados, adoro ouvir música, ler romances e planejar viagens  
 Gosto de aprender coisas novas todos os dias e acredito que disciplina supera talento.
 
 ---
